@@ -1,0 +1,11 @@
+table {
+    padding: 10px;
+}
+table td{
+    padding: 10px;
+}
+.car-table button{
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+}
